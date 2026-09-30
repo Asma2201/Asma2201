@@ -1,16 +1,4 @@
-<h1 align="center">Asma Allaigui</h1>
-
-<p align="center">
-  Data Science Engineering student at <b>ESSAI</b> (Tunis) · I learn by building, from statistical modeling to LLM applications
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/<ton-linkedin>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:<ton-email>"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.kaggle.com/<ton-kaggle>"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
-</p>
-
----
+<h1 align="center">Asma Allaigui</h1> <p align="center"> Data Science Engineering student at <b>ESSAI</b> (Tunis) · I learn by building, from statistical modeling to LLM applications </p> <p align="center"> <a href="https://www.linkedin.com/in/asma-allaigui-755030244"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:asma.allaigui@essai.ucar.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://www.kaggle.com/asmaallaigui"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a> </p>
 
 ## About me
 
