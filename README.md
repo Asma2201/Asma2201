@@ -1,9 +1,19 @@
-<h1 align="center">Asma Allaigui</h1> <p align="center"> Data Science Engineering student at <b>ESSAI</b> (Tunis) · I learn by building, from statistical modeling to LLM applications </p> <p align="center"> <a href="https://www.linkedin.com/in/asma-allaigui-755030244"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:asma.allaigui@essai.ucar.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> </p>
+<h1 align="center">Asma Allaigui</h1>
+
+<p align="center">
+  Data Science Engineering student at <b>ESSAI</b> (Tunis) · I learn by building, from statistical modeling to LLM applications
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/asma-allaigui-755030244"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:asma.allaigui@essai.ucar.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ## About me
 
 - Third-year **Data Science Engineering** student at ESSAI (École Supérieure de la Statistique et de l'Analyse de l'Information), University of Carthage, Tunisia (2024–2027)
-- Currently working on an **AI medical chatbot** (LLMs + RAG) and on **financial sentiment analysis with cross-lingual transfer**
+- Currently working on **financial sentiment analysis with cross-lingual transfer**
+- Recently completed a **medical RAG chatbot** (LLMs + LangChain) and a **portfolio optimization** project in quantitative finance
 - Learning path: RAG → LangChain → LangGraph → agent evaluation → cloud deployment (Azure)
 - Previously: Data Science Intern at **Amadeus** (forecasting + LLM agent) and intern at the **Central Bank of Tunisia** (risk prediction)
 - **Looking for a final-year engineering internship (PFE) in ML / AI, starting February 2027**
@@ -53,6 +63,8 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| [**Medical RAG chatbot**](https://github.com/Asma2201/<repo>) | Question answering over medical documents with retrieval-augmented generation, grounding LLM answers in retrieved sources | Python · LangChain · LLMs · RAG |
+| [**Portfolio optimization**](https://github.com/Asma2201/<repo>) | Portfolio construction on US equities: Markowitz mean-variance and efficient frontier, risk parity and HRP, backtesting with VaR / CVaR and drawdown | Python · Pandas · NumPy · yfinance |
 | [**Auto insurance claim prediction**](https://github.com/Asma2201/prediction-sinistres-assurance-auto) | Actuarial approach to claim probability: statistical tests, risk classes, interpretable logistic regression benchmarked against XGBoost and Random Forest | Python · scikit-learn · XGBoost · SciPy |
 | [**Emotion detection**](https://github.com/Asma2201/<repo>) | Multi-class emotion classification from text, from a TF-IDF baseline to pretrained Transformers, with error analysis | Python · scikit-learn · Hugging Face |
 | [**Pneumonia detection**](https://github.com/Asma2201/<repo>) | Chest X-ray classification with ResNet-18 transfer learning, Streamlit interface and automated PDF report | PyTorch · Streamlit |
@@ -66,10 +78,6 @@
 
 - Evaluating how well fine-tuned Transformers (DistilBERT, FinBERT) generalize for financial sentiment classification, compared against a TF-IDF + Logistic Regression baseline, with experiments tracked in MLflow.
 - Studying zero-shot cross-lingual transfer to Tunisian and French financial texts, separating the effects of domain shift and language shift.
-
-**AI medical chatbot** · *LLMs · RAG · LangChain*
-
-- Question answering over medical documents with retrieval-augmented generation.
 
 ---
 
@@ -105,8 +113,16 @@ Money laundering risk prediction using data analysis and predictive modeling.
   <img src="https://streak-stats.demolab.com?user=Asma2201&hide_border=true" alt="GitHub streak">
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asma2201/Asma2201/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asma2201/Asma2201/output/github-snake.svg">
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Asma2201/Asma2201/output/github-snake.svg">
+  </picture>
+</p>
+
 ---
 
 <p align="center">
-  Open to PFE opportunities in ML / AI. Feel free to reach out on <a href="https://www.linkedin.com/in/<ton-linkedin>">LinkedIn</a> or by <a href="mailto:<ton-email>">email</a>.
+  Open to PFE opportunities in ML / AI. Feel free to reach out on <a href="https://www.linkedin.com/in/asma-allaigui-755030244">LinkedIn</a> or by <a href="mailto:asma.allaigui@essai.ucar.tn">email</a>.
 </p>
